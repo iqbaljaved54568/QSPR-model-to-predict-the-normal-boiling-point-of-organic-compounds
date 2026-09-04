@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+rdkit
+mordred
+optuna
+lightgbm
+xgboost
+shap
+torch
+tqdm
+joblib
