@@ -1,0 +1,17 @@
+# Data (see data/README.md for what's included and what's withheld)
+# The files now committed under data/ are intentionally tracked -- this
+# no longer blanket-excludes data/*.csv.
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model checkpoints / large binaries
+*.pkl
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
