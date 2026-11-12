@@ -1,0 +1,6 @@
+Model,Peak CV R2,n at peak,Optimal n (99% of peak CV R2),CV R2 at optimal n,Test R2 at optimal n,Optimal n (1-SE rule)
+LightGBM,0.9616,32,9,0.9533,0.9539,23.0
+XGBoost,0.9569,32,17,0.949,0.9526,29.0
+Random Forest,0.9456,35,14,0.9387,0.9484,26.0
+ANN (hold-out)*,0.9423,35,17,0.9333,0.9325,
+Ridge,0.8743,29,15,0.8668,0.8708,20.0

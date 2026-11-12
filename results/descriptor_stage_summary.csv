@@ -1,0 +1,10 @@
+Unnamed: 0,Mordred,RDKit 2D,RDKit 3D,Total
+Raw (calculated),1826,217,11,2054
+After removing constant descriptors,1698,207,11,1916
+After removing non-numeric,1039,207,11,1257
+After >50% zero filter,774,72,11,857
+After variance filter (> 0.01),700,72,9,781
+After Spearman filter (|rho| >= 0.10),628,68,8,704
+After VIF filter (< 10),78,14,2,94
+After RF/SHAP importance (top 35),32,3,0,35
+After backward elimination (final),9,1,0,10

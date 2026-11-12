@@ -1,0 +1,5 @@
+Model,Target,n,BP LM stat,BP p-value,Spearman rho,rho p-value,"Resid SD, lowest quintile (K)","Resid SD, highest quintile (K)",SD ratio (high/low)
+Linear,Raw,4056,45.33,1.7e-11,0.157,1.1e-23,22.52,30.52,1.36
+LightGBM,Raw,4056,38.85,4.6e-10,0.227,1.2e-48,14.33,21.04,1.47
+Linear,Log,4056,136.92,1.3e-31,0.198,5.0000000000000005e-37,24.18,35.19,1.46
+LightGBM,Log,4056,27.49,1.6e-07,0.227,1.9e-48,14.83,20.37,1.37

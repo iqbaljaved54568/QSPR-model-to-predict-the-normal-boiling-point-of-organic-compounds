@@ -1,0 +1,10 @@
+Algorithm,Descriptor set,CV R2,CV MAE (K),Test R2,Test MAE (K)
+LightGBM,Final ten (LightGBM),0.9569 ± 0.0062,12.78,0.9587,12.5
+LightGBM,XGBoost n=10,0.9303 ± 0.0106,15.99,0.9319,16.11
+LightGBM,RandomForest n=10,0.9251 ± 0.0129,16.57,0.9347,16.03
+XGBoost,Final ten (LightGBM),0.9498 ± 0.0070,14.16,0.9538,13.49
+XGBoost,XGBoost n=10,0.9280 ± 0.0118,16.5,0.9299,16.91
+XGBoost,RandomForest n=10,0.9203 ± 0.0134,17.44,0.9306,16.98
+RandomForest,Final ten (LightGBM),0.9451 ± 0.0065,14.28,0.95,13.91
+RandomForest,XGBoost n=10,0.9264 ± 0.0097,16.41,0.9311,16.48
+RandomForest,RandomForest n=10,0.9215 ± 0.0112,16.82,0.9317,16.6

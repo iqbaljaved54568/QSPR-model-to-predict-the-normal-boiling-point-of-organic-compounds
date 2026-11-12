@@ -1,0 +1,8 @@
+Subset,n,R2,MAE (K),RMSE (K),Median |error| (K),Bias (K),% within 57.1 K
+All external compounds,4820,0.7144,23.23,42.23,12.22,10.33,91.5
+Inside AD (h <= h*),4576,0.7733,20.76,36.62,11.65,8.23,93.1
+Outside AD (h > h*),244,0.1619,69.65,100.4,44.51,49.74,61.5
+Source: OPERA PHYSPROP (BP_QR),3274,0.8779,16.59,25.5,10.45,5.43,95.8
+Source: OPERA PHYSPROP (BP_QR) + OPERA v2.9 update,13,0.8429,14.85,26.2,6.78,-3.38,92.3
+Source: OPERA v2.9 update,1533,0.3303,37.49,64.9,17.55,20.92,82.3
+Records agreeing within 5 K (or single record),4804,0.7173,23.08,42.0,12.16,10.33,91.7

@@ -1,0 +1,4 @@
+Unnamed: 0,n at max CV R2,n at min CV MAE,R2 >= 99% of max,MAE <= 1.05 x min,MAE <= 1.10 x min,MAE within 1 SE of min
+LightGBM,35,35,11,23,13,32
+XGBoost,32,32,13,23,17,29
+RandomForest,35,35,15,15,15,26

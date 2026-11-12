@@ -1,0 +1,11 @@
+Compound,Type,Tb exp (K),Tb pred (K),Error (K),Leverage h,h > h*,|std. resid| > 3,Descriptors outside training range
+Tetramethylsilane,organosilicon,299.8,389.0,89.2,0.1041,True,True,"MATS1se, BCUTi-1l"
+Chlorotrimethylsilane,organosilicon,330.2,425.0,94.8,0.0869,True,True,BCUTi-1l
+Dichlorodimethylsilane,organosilicon,343.2,429.9,86.7,0.0847,True,True,"GATS1m, BCUTi-1l"
+Hexamethyldisiloxane,organosilicon,373.7,547.5,173.8,0.1013,True,True,BCUTi-1l
+Triethylsilane,organosilicon,380.2,408.4,28.2,0.0872,True,False,BCUTi-1l
+Tetraethyl orthosilicate,organosilicon,441.2,580.5,139.3,0.1019,True,True,BCUTi-1l
+Phenyltrimethylsilane,organosilicon,442.6,519.6,77.0,0.0852,True,True,BCUTi-1l
+Octamethylcyclotetrasiloxane,organosilicon,448.7,629.4,180.7,0.1095,True,True,BCUTi-1l
+Neopentane,C-analogue of Tetramethylsilane,282.6,283.9,1.3,0.002,False,False,-
+Di-tert-butyl ether,C-analogue of Hexamethyldisiloxane,380.4,369.2,-11.2,0.0008,False,False,-
