@@ -5,7 +5,7 @@ Code, data and analysis outputs for:
 > Javed, M. I.; Waters, L.; Belton, D.; Cooke, D. *A Ten-Descriptor LightGBM Model for Normal Boiling Point Prediction of Structurally Diverse Organic Compounds: Validation, Applicability Domain and Online Deployment.* Submitted to *ACS Omega*, 2026.
 
 - **Archive (this repository):** https://doi.org/10.5281/zenodo.22311330
-- **Web application:** https://bppredictionapp-eghwsz9hbquq3kcrcgjfk5.streamlit.app/ (source: https://github.com/iqbaljaved54568/Bp_prediction_app, archived at https://doi.org/10.5281/zenodo.22311228)
+- **Web application:** https://bppredictionapp-eghwsz9hbquq3kcrcgjfk5.streamlit.app/ (source: https://github.com/iqbaljaved54568/Bp_prediction_app, archived at https://doi.org/10.5281/zenodo.22311227)
 
 ## Model in brief
 
